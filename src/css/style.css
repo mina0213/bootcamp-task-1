@@ -128,13 +128,13 @@ body{
 .request__body-title{
     font-size: 1.8rem;
     color: var(--color-text);
-    margin-bottom: 0.8rem;
+    margin-bottom: 1rem;
     font-weight: bold;
 }
 .request__body-id{
     color: var(--color-small-text);
     font-size: 1.2rem;
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
 }
 .request__body-img{
     display: flex;
